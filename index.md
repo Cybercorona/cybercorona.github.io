@@ -1,7 +1,6 @@
 ## Willkommen bei Cybercorona
 
 ### Betrug
-
 Der Coronavirus holt sowohl im echten, als auch im digitalen Leben die Betrüger aus ihren Löchern.
 
 Zum Beispiel kommen die Betrüger an die Haustür und geben sich berispielsweise als Vertreter vom Gesundheitsamt/Rettungsdienst aus, die angeblich einen Corona-Test durchführen wollen, um sich so Zugang zum Haus zu verschaffen.
@@ -27,9 +26,8 @@ Besonders perfide sind gefälschte Onlineshops, auf denen Hilfsmittel und Medika
 
 > Spenden und ähnliches können i.d.R. auch immer direkt an die Hilfsorganisationen gesendet werden. Die Bankverbindungen findet ihr auf deren offiziellen Webseiten.
 
-> Die Polizei Prävention und der Verbraucherschutz geben Warnungen vor bekannten, betrügerischen Seiten raus. 
-https://www.verbraucherschutz.com
-https://www.polizei-praevention.de
+> Die Polizei Prävention und der Verbraucherschutz geben Warnungen vor bekannten, betrügerischen Seiten raus.
+Siehe <https://www.verbraucherschutz.com> und <https://www.polizei-praevention.de>.
 
 ### Spam / Phishing
 
