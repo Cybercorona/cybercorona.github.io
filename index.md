@@ -43,12 +43,14 @@ Viele Unternehmen schließen derzeit ihre Filialen und wollen dennoch für den K
 #### Achte auf Vertrauenswürdige Quellen
 * informiere dich nur bei vertrauenswürdigen Webseiten
 * Lade nur von vertrauenswürdigen Quellen Informationen herunter
+
 #### Achtsam Mails lesen
 * Prüfe genau wer die Mail schickt 
 * lass dich nicht unter Druck setzen
 * drücke auf keine Links
 * öffne keine Anhänge
 * Im Zweifelsfalls nicht antworten und als Spam melden
+
 #### Updates
 * halte deine Systeme auf dem neuesten Stand und installiere Updates
 
