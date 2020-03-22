@@ -35,6 +35,7 @@ Siehe <https://www.verbraucherschutz.com> und <https://www.polizei-praevention.d
 ### Wie schützen wir uns?
 
 
+Auf <https://haveibeenpwned.com/> kannst du prüfen, ob Dein Konto durch ein Datenleck kompromittiert wurde.
 
 
 ----
