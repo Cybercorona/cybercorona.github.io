@@ -7,7 +7,7 @@
 ### Betrug
 Der Coronavirus holt sowohl im echten, als auch im digitalen Leben die Betrüger aus ihren Löchern.
 
-Zum Beispiel kommen die Betrüger an die Haustür und geben sich berispielsweise als Vertreter vom Gesundheitsamt/Rettungsdienst aus, die angeblich einen Corona-Test durchführen wollen, um sich so Zugang zum Haus zu verschaffen.
+Ein Vorgehen der Betrüger ist, dass sie an die Haustür kommen und sich als Vertreter vom Gesundheitsamt oder auch als Personen vom Rettungsdienst ausgeben, die angeblich einen Corona-Test durchführen wollen. Damit wollen sie sich Zugang zum Haus verschaffen.
 Manchmal soll auch eine Testgebühr direkt in bar bezahlt werden. 
 
 * Bei echten Tests werden vorher Termine per Telefon mit den Betroffenen vereinbart.
@@ -43,22 +43,19 @@ Viele Unternehmen schließen derzeit ihre Filialen und wollen dennoch für den K
 #### Achte auf Vertrauenswürdige Quellen
 * informiere dich nur bei vertrauenswürdigen Webseiten
 * Lade nur von vertrauenswürdigen Quellen Informationen herunter
-
 #### Achtsam Mails lesen
 * Prüfe genau wer die Mail schickt 
 * lass dich nicht unter Druck setzen
 * drücke auf keine Links
 * öffne keine Anhänge
 * Im Zweifelsfalls nicht antworten und als Spam melden
-
 #### Updates
 * halte deine Systeme auf dem neuesten Stand und installiere Updates
 
 
 
 Auf <https://haveibeenpwned.com/> kannst du prüfen, ob Dein Konto durch ein Datenleck kompromittiert wurde.
-Auf <https://www.bsi-fuer-buerger.de/BSIFB/DE/Home/home_node.html> findest viele wichtige Informationen wie beispielsweise eine Phishingmail mit Coronabezug aussehen kann 
-[BSI für Bürger (Falschmeldungen)](https://www.bsi-fuer-buerger.de/BSIFB/DE/Service/Aktuell/Informationen/Artikel/corona-falschmeldungen.html)
+Auf <https://www.bsi-fuer-buerger.de/BSIFB/DE/Home/home_node.html> findest viele wichtige Informationen wie beispielsweise eine Phishingmail mit Coronabezug aussehen kann <https://www.bsi-fuer-buerger.de/BSIFB/DE/Service/Aktuell/Informationen/Artikel/corona-falschmeldungen.html>
 
 
 ----
