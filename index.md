@@ -19,7 +19,7 @@ Gerade bei Krisenzeiten wird oft der sogenannte "Enkeltrick" angewendet. Bei die
 
 Doch auch in der digitalen Welt gibt es eine Vielzahl von Betrügereien, mit denen unsere Mitbürger reingelegt werden.
 
-Auf diversen Kickstarter Seiten kursieren aktuell Spendenaufrufe für Koronavirus-Forschung. Teils werden auch Einzelschicksale hervorgehoben, die dringend Geld für Medikamente benötigten. Diese Seiten sind leider nicht immer echt und bergen die Gefahr, dass man das Geld direkt an die Betrüger sendet.
+Auf diversen Kickstarter Seiten kursieren aktuell Spendenaufrufe für Coronavirus-Forschung. Teils werden auch Einzelschicksale hervorgehoben, die dringend Geld für Medikamente benötigten. Diese Seiten sind leider nicht immer echt und bergen die Gefahr, dass man das Geld direkt an die Betrüger sendet.
 
 Besonders perfide sind gefälschte Onlineshops, auf denen Hilfsmittel und Medikamente zu hohen Preisen im Versand angeboten werden. Diese gibt es jedoch oft gar nicht und die Waren werden nie geliefert. Auch Einzelhändler auf Amazon und Ebay sind davon betroffen.
 
