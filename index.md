@@ -31,6 +31,8 @@ Besonders perfide sind gefälschte Onlineshops, auf denen Hilfsmittel und Medika
 Siehe <https://www.verbraucherschutz.com> und <https://www.polizei-praevention.de>.
 
 ### Spam / Phishing
+Viele Unternehmen schließen derzeit ihre Filialen und wollen dennoch für den Kunden online oder telefonisch erreichbar sein. Verbrecher erstellen basierend darauf ähnlich aussehende Mails und wollen den Verbraucher täuschen. Dabei wollen sie den Verbraucher dazu bewegen ihre Daten wie Zugangsinformationen preiszugeben.
+
 
 
 ### Wie schützen wir uns?
