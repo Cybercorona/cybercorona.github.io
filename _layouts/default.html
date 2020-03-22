@@ -19,7 +19,7 @@
   width: 100%;
   height: 100%;
 }
-h1 {
+h1#title {
       margin: auto;
       }
 </style>
@@ -31,7 +31,7 @@ h1 {
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 id="title">{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
