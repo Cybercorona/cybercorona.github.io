@@ -32,7 +32,7 @@ Siehe <https://www.verbraucherschutz.com> und <https://www.polizei-praevention.d
 
 ### Spam / Phishing
 Viele Unternehmen schließen derzeit ihre Filialen und wollen dennoch für den Kunden online oder telefonisch erreichbar sein. Verbrecher erstellen basierend darauf ähnlich aussehende Mails und wollen den Verbraucher täuschen. Dabei wollen sie den Verbraucher dazu bewegen ihre Daten wie Zugangsinformationen preiszugeben.
-
+Wie  eine Phishingmail mit Coronabezug aussehen kann, findest du hier: <https://www.bsi-fuer-buerger.de/BSIFB/DE/Service/Aktuell/Informationen/Artikel/corona-falschmeldungen.html>
 
 
 ### Wie schützen wir uns?
@@ -52,7 +52,7 @@ Viele Unternehmen schließen derzeit ihre Filialen und wollen dennoch für den K
 
 
 Auf <https://haveibeenpwned.com/> kannst du prüfen, ob Dein Konto durch ein Datenleck kompromittiert wurde.
-Auf <https://www.bsi-fuer-buerger.de/BSIFB/DE/Home/home_node.html> findest viele wichtige Informationen wie beispielsweise eine Phishingmail mit Coronabezug aussehen kann <https://www.bsi-fuer-buerger.de/BSIFB/DE/Service/Aktuell/Informationen/Artikel/corona-falschmeldungen.html>
+Auf <https://www.bsi-fuer-buerger.de/BSIFB/DE/Home/home_node.html> findest viele wichtige Informationen.
 
 
 ----
