@@ -3,6 +3,7 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GweBaP2jWug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 ### Betrug
 Der Coronavirus holt sowohl im echten, als auch im digitalen Leben die Betrüger aus ihren Löchern.
 
@@ -39,16 +40,16 @@ Viele Unternehmen schließen derzeit ihre Filialen und wollen dennoch für den K
 
 ### Wie schützen wir uns?
 
-####achte auf Vertrauenswürdige Quellen
+#### Achte auf Vertrauenswürdige Quellen
 * informiere dich nur bei vertrauenswürdigen Webseiten
 * Lade nur von vertrauenswürdigen Quellen Informationen herunter
-####achtsam Mails lesen
+#### Achtsam Mails lesen
 * Prüfe genau wer die Mail schickt 
 * lass dich nicht unter Druck setzen
 * drücke auf keine Links
 * öffne keine Anhänge
 * Im Zweifelsfalls nicht antworten und als Spam melden
-####Updates
+#### Updates
 * halte deine Systeme auf dem neuesten Stand und installiere Updates
 
 
