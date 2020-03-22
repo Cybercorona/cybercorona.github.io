@@ -1,5 +1,5 @@
 ## Willkommen bei Cybercorona
-<iframe class="iframe-container" width="560" height="315" src="https://www.youtube-nocookie.com/embed/GweBaP2jWug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GweBaP2jWug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Betrug
 Der Coronavirus holt sowohl im echten, als auch im digitalen Leben die Betrüger aus ihren Löchern.
@@ -37,8 +37,22 @@ Viele Unternehmen schließen derzeit ihre Filialen und wollen dennoch für den K
 
 ### Wie schützen wir uns?
 
+####achte auf Vertrauenswürdige Quellen
+* informiere dich nur bei vertrauenswürdigen Webseiten
+* Lade nur von vertrauenswürdigen Quellen Informationen herunter
+####achtsam Mails lesen
+* Prüfe genau wer die Mail schickt 
+* lass dich nicht unter Druck setzen
+* drücke auf keine Links
+* öffne keine Anhänge
+* Im Zweifelsfalls nicht antworten und als Spam melden
+####Updates
+* halte deine Systeme auf dem neuesten Stand und installiere Updates
+
+
 
 Auf <https://haveibeenpwned.com/> kannst du prüfen, ob Dein Konto durch ein Datenleck kompromittiert wurde.
+Auf <https://www.bsi-fuer-buerger.de/BSIFB/DE/Home/home_node.html> findest viele wichtige Informationen wie beispielsweise eine Phishingmail mit Coronabezug aussehen kann <https://www.bsi-fuer-buerger.de/BSIFB/DE/Service/Aktuell/Informationen/Artikel/corona-falschmeldungen.html>
 
 
 ----
