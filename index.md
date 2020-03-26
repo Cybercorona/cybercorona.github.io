@@ -3,10 +3,10 @@
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GweBaP2jWug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+Der Coronavirus holt sowohl im echten, als auch im digitalen Leben die Betrüger aus ihren Löchern.
+<blockquote class="twitter-tweet" data-lang="de" data-dnt="true" data-theme="dark"><p lang="de" dir="ltr">In Zeiten von <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> häufen sich Internetkriminalität &amp; Arzneimittelfälschungen. Unsere Angst wird zum Geschäft von Kriminellen. Dazu heute mit <a href="https://twitter.com/Europol?ref_src=twsrc%5Etfw">@Europol</a>-Direktorin telefoniert. Mit Regierungen &amp; Behörden arbeiten wir daran, Menschen vor lebensgefährlichen Fallen zu schützen <a href="https://t.co/nItsuNUPbf">pic.twitter.com/nItsuNUPbf</a></p>&mdash; Ursula von der Leyen (@vonderleyen) <a href="https://twitter.com/vonderleyen/status/1242439575236116487?ref_src=twsrc%5Etfw">24. März 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### Betrug
-Der Coronavirus holt sowohl im echten, als auch im digitalen Leben die Betrüger aus ihren Löchern.
-
 Ein Vorgehen der Betrüger ist, dass sie an die Haustür kommen und sich als Vertreter vom Gesundheitsamt oder auch als Personen vom Rettungsdienst ausgeben, die angeblich einen Corona-Test durchführen wollen. Damit wollen sie sich Zugang zum Haus verschaffen.
 Manchmal soll auch eine Testgebühr direkt in bar bezahlt werden. 
 
